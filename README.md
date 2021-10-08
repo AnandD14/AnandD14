@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnandD14
 - 👀 I’m interested in solving programming challenges and is flexible with any praogramming languages.
 - 🌱 I’m currently learning Django and Flutter
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking for an opportunity to start my career
 - 📫 Please contact me via danand241@gmail.com
 
 <!---
